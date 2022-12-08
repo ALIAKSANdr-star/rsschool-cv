@@ -1,28 +1,31 @@
 # ALIAKSADR PASHKOVICH
 ****
-## Contact information: 
+## Contact information:
 
-**Phone**: +48 881 652 122 
+Phone: +48 881 652 122 
 
-**E-mail**: sketpashkovich@mai.ru 
+E-mail: sketpashkovich@mai.ru 
 
-**GitHub**: aliaksadr-star
+GitHub: ALIAKSANdr-star
 ****
 ## Locations: 
+
 POLAND 
 
-DĄBROWA GÓRNICZA 
+DĄBROWA GÓRNICZA .
 ****
 ## Briefly About Myself:
+
 I just started studying the IT field.
 
 I really want to learn and acquire new knowledge.
 ****
 ## Skills:
 
-no skills 
+no skills. 
 ****
 ## Code example: 
+
 ```
 function sum(a, b){
   return a + b;
@@ -30,15 +33,24 @@ function sum(a, b){
 let result = sum(1, 2);
 alert( result );
 ```
+
 ****
 ## Work experience: 
 
 no work experience in the IT field. 
+
 ****
 ## Education: 
+
+
 no completed courses and trainings.
+
+
 ****
 ## Languages:
-Russian - native speaker. 
+
+
+Russian - native speaker.
+
 
 English - A1 . 
