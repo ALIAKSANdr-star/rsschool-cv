@@ -2,11 +2,11 @@
 ****
 ## Contact information: 
 
-**Phone: +48 881 652 122 
+**Phone**: +48 881 652 122 
 
-**E-mail: sketpashkovich@mai.ru 
+**E-mail**: sketpashkovich@mai.ru 
 
-**GitHub: aliaksadr-star
+**GitHub**: aliaksadr-star
 ****
 ## Locations: 
 POLAND 
