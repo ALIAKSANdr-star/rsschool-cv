@@ -1,22 +1,26 @@
 # ALIAKSADR PASHKOVICH
 ****
-## Contact information : ##
+## Contact information: 
 
-### Phone: +48 881 652 122 ###
-### E-mail: sketpashkovich@mai.ru ###
+Phone: +48 881 652 122 
+
+E-mail: sketpashkovich@mai.ru 
 ****
-## Locations: ##
-### POLAND ###
-#### DĄBROWA GÓRNICZA ####
+## Locations: 
+POLAND 
+
+DĄBROWA GÓRNICZA 
 ****
-## Briefly About Myself: ##
-#### I just started studying the IT field. ####
-#### I really want to learn and acquire new knowledge. ####
+## Briefly About Myself:
+I just started studying the IT field.
+
+I really want to learn and acquire new knowledge.
 ****
-## Skills: ##
-### no skills ###
+## Skills:
+
+no skills 
 ****
-## Code example:## 
+## Code example: 
 ```
 function sum(a, b){
   return a + b;
@@ -25,12 +29,14 @@ let result = sum(1, 2);
 alert( result );
 ```
 ****
-## Work experience: ##
-### no work experience in the IT field. ###
+## Work experience: 
+
+no work experience in the IT field. 
 ****
-## Education: ##
-### no completed courses and trainings. ###
+## Education: 
+no completed courses and trainings.
 ****
-## Languages ##
-### Russian - native speaker. ###
-### English - A1 . ###
+## Languages:
+Russian - native speaker. 
+
+English - A1 . 
